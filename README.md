@@ -16,8 +16,9 @@
 <p align="left">
 <!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/sivasahukar95" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sivasahukar95" height="30" width="40" /></a>
-<a href="https://twitter.com/sivasahukar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="sivasahukar95" height="30" width="40" /></a>
-<a href="https://medium.com/@sivasahukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@sivasahukar" height="30" width="40" /></a>
+<a href="https://twitter.com/sivasahukar95" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sivasahukar95" height="30" width="40" /></a>
+<a href="https://sivasahukar.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sivasahukar95" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCueOUJHPiLJNz2sYuUONh5Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sivasahukar95" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/_khushboo.goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/khushboo goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a> -->
 </p>
