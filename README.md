@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Software Developer in TCS</h1>
+<h1 align="center">Hi there, I'm Siva currently working as a software developer in TCS 👋</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasahukar95&label=Profile%20views&color=0e75b6&style=flat" alt="sivasahukar95" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Data Science Projects across Globe**
+- 🔥 I’m looking to collaborate on **Data Science Projects across Globe**
 
-- 💬 Ask me about **Python, numpy, pandas, web scraping, EDA and machine learning algorithms**
+- 💬 Ask me about **Python, SQL, numpy, pandas, web scraping, EDA and machine learning algorithms**
 
-- 📫 How to reach me **sivasahukar95@gmail.com**
+- 📫 Reach me via e-mail **sivasahukar95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
