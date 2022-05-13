@@ -1,13 +1,17 @@
-<h1 align="center">Hi there, I'm Siva 👋</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<h1 align="center">Hi there, I'm Siva 🌏</h1>
+<h3 align="center">A passionate Machine Learning - AI enthusiast from India, Happy to see you here 🙂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasahukar95&label=Profile%20views&color=0e75b6&style=flat" alt="sivasahukar95" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- ✌ Talks about Python, SQL, Machine Learning, Deep Learning and AWS - Data Analytis/Machine Learning
 
-- 🔥 I’m looking to collaborate on **Data Science Projects across Globe**
+- 💻 Experienced Software Engineer with keen interest in AI and cutting edge technologies.
 
-- 💬 Ask me about **Python, SQL, numpy, pandas, web scraping, EDA and machine learning algorithms**
+- 📚 Investing my learning time in AWS Certifications & **Deep Learning** - covering ANN, RNN, CNN - Learning tensorFlow framework
+
+- 🔥 I’m looking forward to collaborate to work on various Data Science and Machine Learning projects, feel free to reach out, mentioned my contact mail below
+
+- 💬 Currently opensourcing most of my work, would love to know about your feedback.
 
 - 📫 Reach me via e-mail **sivasahukar95@gmail.com**
 
@@ -37,3 +41,5 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasahukar95&show_icons=true&locale=en&layout=compact" alt="sivasahukar95" /></p>
+
+![Siva GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasahukar95&show_icons=true)
